@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form gerente\FrmAlta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form gerente\FrmBaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form gerente\FrmCargar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form gerente\FrmExportar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form gerente\FrmGuardar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form gerente\FrmModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios principales\FrmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios principales\FrmGerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
